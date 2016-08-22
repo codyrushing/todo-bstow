@@ -9,7 +9,7 @@ module.exports = {
     googleAuth: {
       clientID: GOOGLE_CLIENT_ID,
       clientSecret: GOOGLE_CLIENT_SECRET,
-      callbackURL: "http://localhost:3030/auth/google/callback"
+      callbackURL: "http://codyrushing.com:3030/auth/google/callback"
     }
   },
   production: {
